@@ -1,3 +1,3 @@
 def position_taken? (board, index)
-index = [0123456789]
+index = [0]
   
