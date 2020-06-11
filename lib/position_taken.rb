@@ -1,3 +1,5 @@
 def position_taken? (board, index)
-index = [0]
+ !(board[index] == " " || board[index] == "" || board[index] == nil)
+end
+
   
